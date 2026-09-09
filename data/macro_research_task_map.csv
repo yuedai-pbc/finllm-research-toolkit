@@ -1,0 +1,31 @@
+task_id,task_name,research_context,input_sources,expected_output,evaluation_focus
+MACRO-001,Policy document summarization,Central bank and policy research,Public speeches and reports,Structured policy memo,Evidence grounding and citation quality
+MACRO-002,Macroeconomic theme extraction,Macro monitoring,Reports speeches and news,Theme table with source references,Topic consistency and source coverage
+MACRO-003,Literature mapping,Research survey,Paper abstracts and metadata,Taxonomy and reading list,Classification accuracy
+MACRO-004,Indicator explanation,Macro data analysis,Public data dictionaries and releases,Indicator note,Conceptual accuracy
+MACRO-005,Research memo drafting,Policy-oriented research,Retrieved public documents,Draft memo with assumptions,Reasoning transparency
+MACRO-006,Central-bank speech comparison,Policy communication,Public speeches by officials,Comparison table and theme map,Institutional accuracy
+MACRO-007,Inflation narrative tracking,Macro monitoring,Reports releases and public commentary,Narrative timeline,Temporal consistency
+MACRO-008,Financial stability risk scan,Financial stability,Financial stability reports and public market notes,Risk inventory and evidence table,Risk coverage and false-positive control
+MACRO-009,Policy brief generation,Applied policy research,Retrieved public evidence,Brief with recommendations and limitations,Source quality and policy relevance
+MACRO-010,Forecast assumption audit,Forecasting and nowcasting,Model notes public data releases and assumptions,Assumption checklist,Transparency and uncertainty documentation
+MACRO-011,Alternative data research note,Nowcasting and monitoring,Public alternative data descriptions,Methodology note,Data limitation awareness
+MACRO-012,Research quality control,Workflow governance,Draft memo source list and retrieval log,Review checklist,Unsupported-claim detection
+MACRO-013,Central-bank report comparison,Policy research,Annual reports financial stability reports and speeches,Comparison matrix,Institutional accuracy and coverage
+MACRO-014,Monetary policy stance extraction,Policy communication,Speeches minutes and policy statements,Stance timeline,Interpretation consistency
+MACRO-015,Credit condition monitoring,Macro-financial monitoring,Public credit reports and financial market data notes,Credit condition memo,Data limitation awareness
+MACRO-016,Liquidity narrative tracking,Market monitoring,Public market commentaries and central bank operations notes,Liquidity narrative summary,Temporal consistency and source quality
+MACRO-017,Fiscal-financial policy mapping,Policy coordination,Public fiscal and financial policy documents,Policy map,Evidence coverage
+MACRO-018,Macro risk scenario drafting,Scenario analysis,Public risk reports and macro data releases,Scenario outline,Reasoning transparency
+MACRO-019,Nowcasting evidence log,Nowcasting workflow,Public alternative data and indicator releases,Evidence log and uncertainty note,Traceability
+MACRO-020,Research briefing automation,Research production,Retrieved reports papers and data notes,Briefing deck outline,Relevance and concision
+MACRO-021,International comparison note,Comparative policy research,Central bank and international organization reports,Cross-country table,Comparability and source consistency
+MACRO-022,Inflation expectation monitoring,Macro monitoring,Surveys speeches reports and market notes,Expectation dashboard text,Source diversity and bias awareness
+MACRO-023,Financial market event study note,Market research,Public event dates market commentary and research papers,Event study plan,Methodology clarity
+MACRO-024,Bond market policy note,Fixed income research,Public yield curve reports and policy documents,Bond market memo,Term-structure concept accuracy
+MACRO-025,FOF allocation research assistant,Asset allocation,Public fund reports and macro strategy notes,Allocation research outline,Risk and assumption clarity
+MACRO-026,Commodity macro linkage note,Macro and commodity research,Public commodity reports and macro releases,Commodity-macro linkage memo,Economic logic
+MACRO-027,Derivatives risk explanation,Derivatives research,Public documentation and market reports,Risk explanation note,Terminology and numerical discipline
+MACRO-028,Financial conditions index documentation,Macro-financial indicators,Public index methodology and data releases,Indicator methodology note,Method reproducibility
+MACRO-029,Research database curation,Knowledge infrastructure,Paper metadata source metadata and notes,Curated database,Metadata completeness
+MACRO-030,Agentic literature review,Survey automation,Paper abstracts metadata and public notes,Review outline and evidence table,Classification accuracy and audit trail
